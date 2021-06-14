@@ -1,1 +1,11 @@
 # uHat PCB design - Status LEDs submodule
+
+In a large library building configuration where cubicles are used as small isolated study or reading spaces, it is a common thing to see readers, immediately after walking in, seeking for an available cubicle to occupy.
+Similarly, in a vast office building scenario where the majority of the company operates on the floor, it is common practice for both workers and managers to book rooms for meetings during working hours. On the other hand, it is sometimes a ritual for individual employees to leave their floor desks to make use of meeting rooms to focus in solitude. Most times, this second case doesn’t require any formal booking of the meeting room.
+Another instance or scenario we can think of is an indicating system at a banking facility or any other higher security building where only one person is admissible at a time.
+ 
+Looking at the practicality of how things should operate in the above three scenarios, we should always expect situations where it won’t be time-effective for a new person entering the library to simply walk up towards the cubicles section to see if there is any unavailable place and return to the waiting area section if that is the case, only to make the same trip moments later to see if there is any available cubical - repeating the back-and-forth until so. The same thing can be thought of disturbances that can happen in meeting rooms scenarios where one can open the room to check its availability while there is a meeting happening in there at the same time.  
+Lastly, what about the nightmare people will be experiencing at the entrance of a building requiring only one person to enter the facility at a time in case there is no proper indication system. 
+ 
+We can solve these situations by using lights. Our idea is to make use of a Pi HAT designed with a bunch of LEDs to serve as occupancy indicators with the idea of using universal signs for green and red, where green means available and red means occupied. In this specific project, we will design and simulate a piHAT that will use 10 LEDs connected to the GPIO pins to simulate the occupancy indications for 10 cubicles, 10 meeting rooms or 10 entrances of banking facilities.
+
