@@ -1,14 +1,14 @@
-Reference, Quantity, Value, Footprint, Datasheet
-BT1 ,1,"5V supply","Battery:Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles","~"
-D1 D2 D3 D4 D5 D6 D7 D8 D9 D10 ,10,"CQY99","LED_THT:LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRGrey","https://www.prtice.info/IMG/pdf/CQY99.pdf"
-H1 H2 H3 H4 ,4,"MountingHole","lib:MountingHole_2.7mm_M2.5_uHAT_RPi","~"
-J1 ,1,"GPIO_CONNECTOR","lib:PinSocket_2x20_P2.54mm_Vertical_Centered_Anchor","~"
-Q1 ,1,"2N2219","digikey-footprints:TO-39-3","http://www.onsemi.com/pub_link/Collateral/2N2219-D.PDF"
-Q2 ,1,"2N3905","digikey-footprints:TO-92-3","https://www.nteinc.com/specs/original/2N3905_06.pdf"
-R1 R2 R3 R4 R5 R6 R7 R8 R9 R10 ,10,"300","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal","~"
-R11 ,1,"55","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal","~"
-R12 ,1,"10","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal","~"
-R13 ,1,"1k","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal","~"
-R14 ,1,"22k","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal","~"
-R15 ,1,"10k","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal","~"
-U1 ,1,"LTC4414","Package_SO:MSOP-8_3x3mm_P0.65mm","http://cds.linear.com/docs/en/datasheet/4414fc.pdf"
+Reference,Quantity,Value,Footprint,Price in ZAR,Total Price in ZAR,Part Page,Datasheet
+D1 D2 D3 D4 D5 D6 D7 D8 D9 D10,10,CQY99,LED_THT:LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRGrey,19.79,197.90,https://www.conrad.com/p/vishay-tsus-5401-cqy99-ir-emitter-950-nm-22-5-mm-radial-lead-184500?insert=CJ&WT.mc_id=affiliate_cj&utm_source=affiliate_cj&cjevent=8872d1fdcc8111eb81ed00ed0a18050f,https://www.prtice.info/IMG/pdf/CQY99.pdf
+Q1,1,2N2219,digikey-footprints:TO-39-3,34.35,34.35,https://www.digikey.co.za/product-detail/en/central-semiconductor-corp/2N2219-PBFREE/1514-2N2219PBFREE-ND/4806843,http://www.onsemi.com/pub_link/Collateral/2N2219-D.PDF
+Q2,1,2N3905,digikey-footprints:TO-92-3,6.09,6.09,https://www.digikey.co.za/product-detail/en/central-semiconductor-corp/2N3905-PBFREE/1514-2N3905PBFREE-ND/4806877,https://www.nteinc.com/specs/original/2N3905_06.pdf
+BT1,1,5V supply,Battery:Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles,14.29,14.29,https://www.digikey.com/en/products/detail/panasonic-bsg/CR-1025-BN/269738,~
+R1 R2 R3 R4 R5 R6 R7 R8 R9 R10,10,300,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,3.05,30.50,https://www.digikey.co.za/product-detail/en/vishay-beyschlag-draloric-bc-components/MBA02040C3000FRP00/BC3491CT-ND/7350921,~
+R11,1,55,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,0.86,0.86,https://za.rs-online.com/web/p/through-hole-fixed-resistors/1743006/?cm_mmc=ZA-PLA-DS3A-_-google-_-PLA_ZA_EN_Passive_Components_Whoop-_-(ZA:Whoop!)+Through+Hole+Fixed+Resistors-_-1743006&matchtype=&pla-303060399558&gclid=CjwKCAjwn6GGBhADEiwAruUcKqMOZcQpKK4HMwaerpu8WXH37-mXYGDRyS5oCLf5YOoUXI5lpuvZkRoCDJ4QAvD_BwE&gclsrc=aw.ds,~
+R12,1,10,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,7.76,7.76,https://www.digikey.co.za/product-detail/en/yageo/PNP300JR-73-10R/10AECT-ND/2059154,~
+R13,1,1k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2.36,2.36,https://za.rs-online.com/web/p/through-hole-fixed-resistors/7078669/?cm_mmc=ZA-PLA-DS3A-_-google-_-PLA_ZA_EN_Passive_Components_Whoop-_-(ZA:Whoop!)+Through+Hole+Fixed+Resistors-_-7078669&matchtype=&pla-450541326901&gclid=CjwKCAjwn6GGBhADEiwAruUcKsRVRYRii-Jt6Wg99w_x8j1VisAIKdM-G25-mPX1FYZ2TEe0iE8_uBoCLb4QAvD_BwE&gclsrc=aw.ds,~
+R14,1,22k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1.61,1.61,https://www.banggood.com/60pcs-2W-22KR-Metal-Film-Resistor-Resistance-1-pencent-22K-ohm-Resistor-p-1679184.html?utm_source=googleshopping&utm_medium=cpc_organic&gmcCountry=ZA&utm_content=minha&utm_campaign=minha-za-en-pc&currency=ZAR&cur_warehouse=CN&createTmp=1&utm_source=googleshopping&utm_medium=cpc_bgs&utm_content=sandra&utm_campaign=sandra-ssc-za-all-0628-20LP&ad_id=445211076419&gclid=CjwKCAjwn6GGBhADEiwAruUcKi_l08ogGLvWGaUc21D_c-RzaEuWQvp_OU2vinRma66KI8q0bQ0dORoCde4QAvD_BwE,~
+R15,1,10k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,0.59,0.59,https://www.amazon.in/Deepak-Enterprise-carbon-film-resistor/dp/B01MYSUG1Q,~
+U1,1,LTC4414,Package_SO:MSOP-8_3x3mm_P0.65mm,73.95,73.95,https://www.findchips.com/search/LTC4414,http://cds.linear.com/docs/en/datasheet/4414fc.pdf
+H1 H2 H3 H4,4,MountingHole,lib:MountingHole_2.7mm_M2.5_uHAT_RPi,,0.00,,~
+J1,1,GPIO_CONNECTOR,lib:PinSocket_2x20_P2.54mm_Vertical_Centered_Anchor,,0.00,,~
